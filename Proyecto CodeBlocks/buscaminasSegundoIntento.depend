@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1557419302 source:d:\c\buscaminassegundointento\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<mmsystem.h>
+
+1558673862 source:d:\c\buscaminassegundointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<time.h>
+
+1558738449 source:d:\buscaminassegundointento-20190524t213210z-001\buscaminassegundointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<time.h>
+
+1558843683 source:d:\downloads\buscaminassegundointento-20190525t180238z-001\buscaminassegundointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<time.h>
+
+1559402358 source:d:\downloads\buscaminassegundointento-20190525t180238z-001\buscaminassegundointento 27-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<time.h>
+
+1559717962 source:e:\downloads\buscaminassegundointento-20190525t180238z-001\buscaminassegundointento 27-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<windows.h>
+	<time.h>
+
+1559888041 source:d:\proyectos c\buscaminas beta 0.01\main.c
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+
+1561140549 source:d:\proyectos c\buscaminas beta 0.01\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	<string.h>
+
+1561140549 source:d:\proyectos c\ut minas\proyecto codeblocks\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	<string.h>
+

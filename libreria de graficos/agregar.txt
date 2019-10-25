@@ -1,0 +1,2 @@
+poner esto en other linker options: -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+y agregar en link libraries la ruta al archivo libbgi.a
